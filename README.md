@@ -1,6 +1,5 @@
 # Wecide
 
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84.svg?style=flat)](#)
 [![Privacy First](https://img.shields.io/badge/Privacy-No%20Accounts-8b5cf6.svg)](#)
 
 **Wecide (com.wecide.app)** helps a group of people pick a film to watch together. The application is built entirely around privacy and frictionless use: there is no sign-up, no email address, and no password required.
