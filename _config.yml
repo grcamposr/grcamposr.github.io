@@ -2,7 +2,9 @@ title: Wecide
 description: Wecide helps a group of people pick a film to watch together.
 author: Carolina Campos
 theme: jekyll-theme-primer
+baseurl: "/wecide"
+url: "https://grcamposr.github.io"
 
 # This creates the navigation tabs at the top of your site
 header_pages:
-  - wecide-privacy-policy.html
+  - privacy/index.html
